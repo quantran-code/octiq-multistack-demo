@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+target/
+vendor/
+coverage/
+*.gem
+.DS_Store
