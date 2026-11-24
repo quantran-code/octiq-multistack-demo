@@ -8,3 +8,5 @@ vendor/
 coverage/
 *.gem
 .DS_Store
+.coverage
+coverage.json
